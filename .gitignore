@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.exe
+*.cpp
+*.obj
+*.htp
+*.log
+*.out
+*.cor
+*.hes
+*.cov
+*.zip
+*.Rproj
+
